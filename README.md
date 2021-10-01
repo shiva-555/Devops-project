@@ -1,3 +1,4 @@
 # Devops-project
-Deal with CICD pipeline 
-continous integration and continous deployment 
+Devops learning 
+support for learning 
+ 
